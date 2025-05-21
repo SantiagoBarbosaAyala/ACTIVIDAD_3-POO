@@ -1,7 +1,7 @@
 # Actividad 3 - Programación Orientada a Objetos
 
 <details>
-  <summary><strong>Integrantes:</strong></summary>
+  <summary><strong>Presentado por:</strong></summary>
   
 
 | Nombre completo                 | Correo                                                | Git user              |
